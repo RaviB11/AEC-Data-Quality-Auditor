@@ -1,0 +1,7 @@
+LogID,Date,MaterialID,MaterialName,Quantity,UnitOfMeasure,Supplier
+1,2025-07-20,C-101,Cement,50,Bags,BuildCo
+2,2025-07-21,S-205,Sand,15,Tons,Quarry Inc
+3,2025-07-22,C-101,Cement,-10,Bags,BuildCo
+4,,G-300,Gravel,25,Tons,Quarry Inc
+5,2025-07-24,C-101,Cement,20,Ton,BuildCo
+6,2025-07-25,R-410,Rebar,150,Units,SteelWorks
